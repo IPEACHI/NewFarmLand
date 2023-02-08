@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/merry-farm-127398.mp3-1d17796f5c6ca591c3eea7d36b4789a0.mp3str"
+
+[deps]
+
+source_file="res://merry-farm-127398.mp3"
+dest_files=[ "res://.import/merry-farm-127398.mp3-1d17796f5c6ca591c3eea7d36b4789a0.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
